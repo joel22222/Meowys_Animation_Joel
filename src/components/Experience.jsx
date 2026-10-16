@@ -1,5 +1,5 @@
 import { OrbitControls } from "@react-three/drei";
-import CargoLoader from "./CargoLoader";
+import CargoLoader from "./Cargoloader";
 
 export const Experience = ({ mode, sortOn, playing, speed, resetKey, onStatus }) => {
   return (
